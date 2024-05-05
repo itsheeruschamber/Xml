@@ -1,0 +1,33 @@
+
+<?xml-stylesheet href="style5.css"?>
+<html>
+<head>
+	<h1>Student Description</h1>
+</head>
+<students>
+	<student>
+		<usn>ROLL  : 21691A3244 </usn>
+		<name>NAME : SHAIK KHADEER BASHA</name>
+		<college>COLLEGE: Madanapalle institute of technology and Science </college>
+		<branch>Branch: Data Science</branch>
+		<yoj>Year: 2021</yoj>
+		<email>E-mail: ikhadeer07@gmail.com</email>
+	</student>
+	<student>
+		<usn>ROLL  : 21691A3288</usn>
+		<name>Name : VINEETH</name>
+		<college>COLLEGE: Madanapalle institute of technology and Science</college>
+		<branch>Branch: Data Science</branch>
+		<yoj>Year: 2021</yoj>
+		<email>E-mail: karthikavineeth@gmail.com</email>
+	</student>
+	<student>
+		<usn>ROLL  : 22691A3299</usn>
+		<name>Name: ANKITHA  </name>
+		<college>College: Madanapalle institute of technology and Science</college>
+		<branch>Branch: Computer Science Engineering</branch>
+		<yoj>Year: 2021</yoj>
+		<email>E-mail: ankithakumari@gmail.com</email>
+	</student>
+</students>
+</html>
